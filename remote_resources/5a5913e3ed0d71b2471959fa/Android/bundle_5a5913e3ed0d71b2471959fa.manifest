@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2223526321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de20f17e74cb65bbce6022864d523734
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d0640f9b73752a65fc6115b5753c7bdb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/ToBecomeAssetBundles/charlie_brown_teacher.mp3
+- Assets/ToBecomeAssetBundles/motor.fbx
+- Assets/ToBecomeAssetBundles/tree.fbx
+- Assets/ToBecomeAssetBundles/minions.jpg
+- Assets/ToBecomeAssetBundles/grass.png
+- Assets/ToBecomeAssetBundles/oh_long_johnson.mp4
+Dependencies: []
