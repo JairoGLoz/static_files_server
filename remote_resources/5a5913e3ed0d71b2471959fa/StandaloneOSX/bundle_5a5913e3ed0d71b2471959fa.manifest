@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1337781778
+CRC: 120506735
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1dc2ed4765679165505cd992ef63a40e
+    Hash: 392fcd7e7092df0af4fc4b1b68c5b747
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d0640f9b73752a65fc6115b5753c7bdb
+    Hash: e278b9c0fd3a1371f869dd2c685112c6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,6 +31,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
 - Class: 108
@@ -38,10 +40,12 @@ ClassTypes:
 - Class: 329
   Script: {instanceID: 0}
 Assets:
-- Assets/ToBecomeAssetBundles/charlie_brown_teacher.mp3
-- Assets/ToBecomeAssetBundles/motor.fbx
-- Assets/ToBecomeAssetBundles/tree.fbx
-- Assets/ToBecomeAssetBundles/minions.jpg
-- Assets/ToBecomeAssetBundles/grass.png
-- Assets/ToBecomeAssetBundles/oh_long_johnson.mp4
+- Assets/Resources/charlie_brown_teacher.mp3
+- Assets/Resources/motor.prefab
+- Assets/Resources/tree.prefab
+- Assets/Resources/CodeAnimControllers/motor_controller.controller
+- Assets/Resources/CodeAnimControllers/tree_controller.controller
+- Assets/Resources/grass.png
+- Assets/Resources/minions.jpg
+- Assets/Resources/oh_long_johnson.mp4
 Dependencies: []
